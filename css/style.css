@@ -1,0 +1,49 @@
+/* css/styles.css */
+
+/* Center align the paragraph in emotion cache */
+.st-emotion-cache-1rsyhoq p{
+    display: flex;
+    justify-content: center;
+    color:rgba(31, 2, 2, 0.815);
+}
+
+/* Style the specific element */
+h2 {
+    display: flex;
+    justify-content: center;
+    color: rgb(207, 58, 58);
+    letter-spacing: -3px;
+    line-height: 0.2;
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    color: rgb(95, 33, 33);
+    letter-spacing: 0px;
+    line-height: 0.2;
+}
+
+/* Background for the emotion cache */
+.st-emotion-cache-12fmjuu {
+    background: rgb(255, 226, 0);
+}
+
+/* Background color for the app */
+.stApp {
+    background-color: yellow;
+}
+
+/* Button styles */
+.stButton > button {
+    color: white;
+    background-color: black;
+    padding: 2px 60px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px; /* Adjusted for better visibility */
+    font-weight: normal;
+}
+
+.stButton > button:hover {
+    background-color: #45a049;
+}
