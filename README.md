@@ -18,9 +18,7 @@ Welcome to the Riddle App! This interactive web application allows users to solv
 ## Technologies Used
 
 - **Python**: The programming language used for the app logic.
-- 
 - **Streamlit**: A powerful library for building web applications in Python.
-- 
 - **CSV**: Riddles are stored in a CSV file for easy modification and expansion.
 
 ## Usage
